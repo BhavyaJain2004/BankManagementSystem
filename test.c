@@ -1,3 +1,5 @@
+// This is the Code used to make Bhavya International Bank with features like Opening Account , Transfering Funds , View Balance , View Account info and close Account
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
